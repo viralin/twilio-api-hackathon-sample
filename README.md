@@ -3,7 +3,6 @@ This repository provides hands-on documentation and sample code for integrating 
 
 ## Contents
 - `docs/twilio_sms_api_guide.md`: Step-by-step guide with code examples.
-- `src/send_sms.py`: Sample script demonstrating Twilio's API usage.
 
 ## Prerequisites
 - Python 3.x installed
