@@ -1,5 +1,5 @@
 # Twilio API Docs Hackathon Sample
-This repository provides hands-on documentation and sample code for integrating Twilio's SMS API to send messages programmatically. Ideal for hackathons and developer education.
+This repository provides hands-on documentation and sample code for integrating Twilio's SMS API to send messages programmatically using Python. 
 
 ## Contents
 - `docs/twilio_sms_api_guide.md`: Step-by-step guide with code examples.
